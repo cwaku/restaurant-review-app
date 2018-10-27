@@ -2,14 +2,11 @@
 ---
 #### _Restaurant Review App_
 
-## Project Overview: Stage 1
-
- This project takes a site with static design that also lacks accessibility and converts the design to be responsive on different sized displays and accessible for screen reader use. It  adds a service worker to ensure seemless experience for users.
-
-### Installation
-1. Get this project to your local machine by running ```git clone https://github.com/restaurant-review-app.git``` in the terminal.
+### How to run?
+1. Clone or download the ZIP 
 
 2. To run the app you need a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer. 
+ You can also use live-server but must have `node.js` installed. Install live-server on your computer by entering `npm install -g live-server`
 
 3. In a terminal, check the version of Python you have: `python -V`. If you have Python 2.x, cd into the project home directory and spin up the server with `python -m SimpleHTTPServer 8000` (or some other port, if port 8000 is already in use.) For Python 3.x, you can use `python -m http.server 8000`. If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
 
