@@ -14,7 +14,7 @@
 
 5. You can now play around with the app.
 
-6. Feel free to check out the app [here](https://mhizterpaul.github.io/restaurant-review-app/).
+6. Feel free to check out the app [here](https://cwaku.github.io/Restaurant-reviews-app/).
 
 ## Restrictions
 
