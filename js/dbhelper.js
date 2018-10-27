@@ -10,7 +10,7 @@ class DBHelper {
    */
   static get DATABASE_URL() {
     //const port = 8000 // Change this to your server port
-    return `https://cwaku.github.io/restaurant-reviews-app/data/restaurants.json`;
+    return `https://cwaku.github.io/Restaurant-reviews-app/data/restaurants.json`;
     //return `http://localhost:${port}/data/restaurants.json`;
   }
 
