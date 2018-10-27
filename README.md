@@ -16,7 +16,7 @@
 
 1. Type `npm install -g live-server` in your terminal to install live-server.
 
-2. cd <path-to-content>
+2. cd to directory
 
 3. Start live-server by entering `live-sever` in the terminal
 
